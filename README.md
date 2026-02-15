@@ -18,3 +18,20 @@ An AI-powered Applicant Tracking System that analyzes resumes against job descri
 ## Tech Stack
 
 Python • NLP • Sentence Transformers • Streamlit • Machine Learning
+
+## contributors
+
+| Name                     | Role                 | Contribution                                    |
+| ------------------------ | -------------------- | ----------------------------------------------- |
+| Venkata sri sainadh Koya | Developer & Designer | Built ATS Engine, NLP Matching, UI & Deployment |
+
+🛠 Maintainer
+
+Maintained by Venkata sri sainadh Koya
+
+📬 Contact
+
+LinkedIn: (https://www.linkedin.com/in/venkata-sri-sainadh-koya-039a45370)
+
+Email: koyachowdary1@gmail.com
+
